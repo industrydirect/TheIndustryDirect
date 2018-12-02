@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages
+## We think about tech
++ business
++ jobss
++ skills
++ markets
++ economics
++ education
++ products & services
++ talent
++ ethics
++ laws
++ civics
++ health
++ future
++ work
++ work-life
++ work-life balance
++ life and work
++ all kinds of fun 💩
 
 You can use the [editor on GitHub](https://github.com/admin-tid/_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
