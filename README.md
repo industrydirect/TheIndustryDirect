@@ -1,10 +1,10 @@
 ## We think about tech
 + business
-+ jobss
++ jobs
 + skills
++ education (formal and informal)
 + markets
 + economics
-+ education
 + products & services
 + talent
 + ethics
