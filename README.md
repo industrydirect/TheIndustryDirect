@@ -20,7 +20,7 @@
 
 
 ##[Restaurant Industry Tech] 
-You can use the [editor on GitHub](https://theindustrydirect.gitbook.io/restaurant-industry-tech/)
+You can use the [[restaurant industry tech]](https://theindustrydirect.gitbook.io/restaurant-industry-tech/)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
