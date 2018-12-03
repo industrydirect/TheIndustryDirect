@@ -18,11 +18,15 @@
 + life and work
 + all kinds of fun 💩
 
-You can use the [editor on GitHub](https://github.com/admin-tid/_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+##[Restaurant Industry Tech] 
+You can use the [editor on GitHub](https://theindustrydirect.gitbook.io/restaurant-industry-tech/)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###_social
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -35,6 +39,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+
+
+
+
+
 
 1. Numbered
 2. List
