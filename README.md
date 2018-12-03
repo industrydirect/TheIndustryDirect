@@ -19,7 +19,7 @@
 + all kinds of fun 💩
 
 
-##[Restaurant Industry Tech] 
+## [Restaurant Industry Tech] 
 You can use the [[restaurant industry tech]](https://theindustrydirect.gitbook.io/restaurant-industry-tech/)
 
 
