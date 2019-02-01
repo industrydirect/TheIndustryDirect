@@ -1,5 +1,5 @@
 ## We think about tech
-+ business
++ ###business
 + jobs
 + skills
 + education (formal and informal)
