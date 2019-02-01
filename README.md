@@ -1,7 +1,11 @@
-## We think about tech
-+ ###business
+## We think about all kinds of fun 💩
++ work
++ tech
++ business
 + jobs
 + skills
++ design
++ development
 + education (formal and informal)
 + markets
 + economics
@@ -16,4 +20,3 @@
 + work-life
 + work-life balance
 + life and work
-+ all kinds of fun 💩
