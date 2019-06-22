@@ -1,4 +1,5 @@
-## We think about all kinds of fun 💩
+## We think about all kinds of fun 💩##
+
 + work
 + tech
 + business
