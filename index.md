@@ -3,8 +3,7 @@ layout: default
 ---
 
 ## We think about all kinds of fun 💩
-
-+ work
+* [work] (https://theindustrydirect.com/work)
 + tech
 + business
 + jobs
@@ -22,8 +21,7 @@ layout: default
 + civics
 + health
 + future
-+ work
-+ work-life
-+ work-life balance
-+ life and work
++ work ()
 + design
+
+
