@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## We think about all kinds of fun 💩
-* [work] (https://theindustrydirect.com/work)
+* [work](https://theindustrydirect.com/work)
 + tech
 + business
 + jobs
