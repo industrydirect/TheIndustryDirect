@@ -15,7 +15,7 @@
 * jobs
 * skills
 * talent
-* education (formal and informal)
+* [education](https://theindustrydirect.com/education)
 * ethics
 * laws
 * civics
