@@ -12,14 +12,14 @@
 * markets
 * economics
 * [brands](https://theindustrydirect.com/brands)
-* products & services
+  * [products](https://theindustrydirect.com/products)
+  * [services](https://theindustrydirect.com/services)
 * talent
 * ethics
 * laws
 * civics
 * health
 * future
-* work
 * design
    * [product design](https://theindustrydirect.com/product-design)
 
