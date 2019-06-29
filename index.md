@@ -12,14 +12,16 @@
 * markets
 * economics
 
+* tech 
+
 * business
 
 * [work](https://theindustrydirect.com/work)
- * jobs
- * skills
- * talent
- * education (formal and informal)
-* tech
+  * jobs
+  * skills
+  * talent
+  * education (formal and informal)
+
 
 * ethics
 * laws
