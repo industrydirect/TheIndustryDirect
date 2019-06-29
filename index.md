@@ -11,7 +11,7 @@
 + education (formal and informal)
 + markets
 + economics
-+ brands
++ [brands](https://theindustrydirect.com/brands.md)
 + products & services
 + talent
 + ethics
