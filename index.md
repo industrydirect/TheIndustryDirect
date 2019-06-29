@@ -11,7 +11,7 @@
 * education (formal and informal)
 * markets
 * economics
-* [brands](https://theindustrydirect.com/brands.md)
+* [brands](https://theindustrydirect.com/brands)
 * products & services
 * talent
 * ethics
@@ -21,6 +21,6 @@
 * future
 * work
 * design
-   * [product design](https://theindustrydirect.com/product-design.md)
+   * [product design](https://theindustrydirect.com/product-design)
 
 
