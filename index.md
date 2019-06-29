@@ -1,6 +1,4 @@
----
-layout: default.html
----
+
 
 ## We think about all kinds of fun 💩
 * [work](https://theindustrydirect.com/work)
