@@ -12,7 +12,7 @@
 * markets
 * economics
 
-* tech 
+* [tech](https://theindustrydirect.com/tech)
 
 * business
 
