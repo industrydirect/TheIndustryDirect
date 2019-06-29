@@ -20,6 +20,6 @@
 + health
 + future
 + work
-+ design
++ [design](https://theindustrydirect.com/design)
 
 
