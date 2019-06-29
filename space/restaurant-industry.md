@@ -15,5 +15,6 @@ Format: ![Alt Text](_assets/_img/TheIndustryDirect-Restaurant.IndustryI_space-ic
 
 ### communicate about this space
 
+*via* ______
 
 
