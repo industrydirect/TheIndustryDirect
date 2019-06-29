@@ -1,9 +1,10 @@
 ## This is where we **cut our chops**. (hmmm) 
 
-The restaurant industry is the industry that has shaped us the most, as people and as workers. We argue it has made us great problem solvers and soft-skills knights. 
-With over 20 years in the industry, it is who we are in most situations. We have a project called [How to Run A House Like A Restaurant], to make a point.
+> The restaurant industry is the industry that has shaped us the most, as people and as workers. We argue it has made us great problem solvers and soft-skills knights. 
+> With over 20 years in the industry, it is who we are in most situations. We have a project called [How to Run A House Like A Restaurant], to make a point.
  
-*Okay, enough. Here are some of out notes on the industry:*
+> *Okay, enough of that. Here is the a projects, space, product we have for the industry*
+
 
 ## Here is the work we have done on the this space
 ![GitHub Logo](/images/logo.png)
