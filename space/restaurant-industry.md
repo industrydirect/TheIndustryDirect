@@ -11,6 +11,8 @@
   <img src="https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant-Industry_space-icon.png" alt="[Restaurant Industry]" style="width:99px;height:99px;border:0;">
 </a>
 
+![Resaurant Industry](https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant-Industry_space-icon.png "Logo Title Text 1")
+
 
 ### notes and research
 
