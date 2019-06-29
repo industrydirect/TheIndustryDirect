@@ -1,4 +1,4 @@
-![sphere and box](assets/images/TheIndustryDirect_Logo_sphere and box-monochrome bluemarker.png)
+![sphere and box](http://theindustrydirect.com/assets/images/TheIndustryDirect_Logo_sphere and box-monochrome bluemarker.png)
 
 ## We think about all kinds of fun 💩
 * [work](https://theindustrydirect.com/work)
