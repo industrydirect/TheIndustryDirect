@@ -20,6 +20,6 @@
 + health
 + future
 + work ()
-+ url: design
++ url: /design
 
 
