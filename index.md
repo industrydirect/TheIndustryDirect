@@ -1,7 +1,7 @@
 
 
 # We think about all kinds of fun 💩
-* design [design](https://theindustrydirect.com/design)
+* [design](https://theindustrydirect.com/design)
    * [product design](https://theindustrydirect.com/product-design)
 * development  
   
