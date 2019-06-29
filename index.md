@@ -2,7 +2,7 @@
 
 ## We think about all kinds of fun 💩
 * [work](https://theindustrydirect.com/work)
-+ tech
+* tech
 + business
 + jobs
 + skills
@@ -11,7 +11,7 @@
 + education (formal and informal)
 + markets
 + economics
-+ [brands](https://theindustrydirect.com/brands.md)
+* [brands](https://theindustrydirect.com/brands.md)
 + products & services
 + talent
 + ethics
