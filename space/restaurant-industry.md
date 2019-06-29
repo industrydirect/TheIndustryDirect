@@ -15,6 +15,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+![useful image]({{ site.url }}/assets/_img/TheIndustryDirect-Restaurant-Industry_space-icon.png)
+
 ### notes and research
 
 *on* [Notion!](https://www.notion.so/theindustrydirect/e9280362641d4bcb8e7ff3d1a92f4bc8?v=10a88e2fa8624426bc355b3842b32592)
