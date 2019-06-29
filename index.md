@@ -15,7 +15,7 @@
 * jobs
 * skills
 * talent
-* [education](https://theindustrydirect.com/education)
+* [education](https://theindustrydirect.com/we-think-about/education)
 * ethics
 * laws
 * civics
