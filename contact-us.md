@@ -1,4 +1,4 @@
-## if you like where our head it. 
+## Ff you like where our head is at. 
 
 Contact us via
 * Slack
