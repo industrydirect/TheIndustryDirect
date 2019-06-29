@@ -8,7 +8,12 @@ With over 20 years in the industry, it is who we are in most situations. We have
 ## Here is the work we have done on the this space
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](_assets/_img/TheIndustryDirect-Restaurant.Industry_space-icon.png)
-![Restaurant Industry](https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant.Industry_space-icon.png)
+![]()
+
+<a href="https://www.notion.so/theindustrydirect/e9280362641d4bcb8e7ff3d1a92f4bc8?v=10a88e2fa8624426bc355b3842b32592">
+<img src="https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant.Industry_space-icon.png" alt="Restaurant Industry" style="width:110px;height:110px;">
+</a>
+
 
 ### notes and research
 
