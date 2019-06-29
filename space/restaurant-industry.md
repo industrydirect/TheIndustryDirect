@@ -5,6 +5,8 @@
 *Okay, enough. Here are some of out notes on the industry:*
 
 ## Here is the work we have done on the this space
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant.IndustryI_space-icon.png)
 ![Restaurant Industry](https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant.IndustryI_space-icon.png)
 
  ### nnotes and research
