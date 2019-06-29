@@ -13,6 +13,7 @@
 
 ![Resaurant Industry](https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant-Industry_space-icon.png "Logo Title Text 1")
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### notes and research
 
