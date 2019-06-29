@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.html
 ---
 
 ## We think about all kinds of fun 💩
