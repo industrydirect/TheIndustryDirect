@@ -7,7 +7,7 @@
 * [work](https://theindustrydirect.com/work)
 + tech
 + business
-+ jobs``
++ jobs
 + skills
 + design
 + development
@@ -22,7 +22,7 @@
 + civics
 + health
 + future
-+ work ()
-+ url: /design
++ work
++ [design](https://theindustrydirect.com/design.md)
 
 
