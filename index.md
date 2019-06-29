@@ -23,6 +23,6 @@
 + health
 + future
 + work
-+ [design](https://theindustrydirect.com/design.md)
++ [design](https://theindustrydirect.com/design)
 
 
