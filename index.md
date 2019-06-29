@@ -1,5 +1,7 @@
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+<img src="https://octodex.github.com/images/yaktocat.png">
 
 ## We think about all kinds of fun 💩
 * [work](https://theindustrydirect.com/work)
