@@ -5,10 +5,12 @@
  
 > *Okay, enough of that. Here is the a projects, space, product we have for the industry* 
 
-##[restaurnt industry]
+## [Restaurnt Industry]
+
+
 
 <a href="https://www.notion.so/theindustrydirect/e9280362641d4bcb8e7ff3d1a92f4bc8?v=10a88e2fa8624426bc355b3842b32592">
-<img src="https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant.Industry_space-icon.png" alt="Restaurant Industry" style="width:110px;height:110px;">
+  <img src="https://theindustrydirect.com/_assets/_img/TheIndustryDirect-Restaurant.Industry_space-icon.png" alt="[Restaurant Industry]" style="width:99px;height:99px;border:0;">
 </a>
 
 
