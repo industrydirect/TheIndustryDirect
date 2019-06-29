@@ -7,7 +7,7 @@
 * [work](https://theindustrydirect.com/work)
 + tech
 + business
-+ jobs
++ jobs``
 + skills
 + design
 + development
