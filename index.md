@@ -1,6 +1,6 @@
 # Welcome to TheIndustryDirect
 
-We are a *small* team of people who
+## We are a *small* team of people who
 * Think (and dream)
 * Learn (and teach)
 * Research
