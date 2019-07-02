@@ -1,3 +1,8 @@
 # Welcome to TheIndustryDirect
 
-We are a *small* team of people who **Think**, **Dream**, **Learn**, **Research**, **Teach**, **Listen**, **Ideate**, **Express** (ideas & problems), **Design** (and we facilitate others to design), **Build** (and inspire others to build). Then, we **Improve** on our work & process through iteration. Our aim is to  help our selves (the Team at The Industry Direct) and others (or clients and our greater network) succeed. 
+## Do us a solid and follow us on our socials.   
+(👈🏽over there, iof you are on a PC )
+(down there if you are on mobile 👇🏽)
+
+Thank you 🤙🏽
+
