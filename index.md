@@ -1,10 +1,10 @@
 # Welcome to TheIndustryDirect
 
-We are a team of people who
+*We are a _small_ team of people who:*
 * Think
-* Learn (and Teach)
+* Learn (and teach)
 * Research
 * Design 
-* Build
+* Build (or inspire others to do so)
 * Listen
 * Improve
