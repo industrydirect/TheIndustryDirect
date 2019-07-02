@@ -1,8 +1,8 @@
-# Welcome to TheIndustryDirect
+# Welcome to TheIndustryDirect 🤙🏽
 
-## Do us a solid and follow us on our socials.   
-(👈🏽over there, iof you are on a PC )
-(down there if you are on mobile 👇🏽)
+We are a small team of people who **Thinks, Dreams, Learns, Researches, Teaches, Listens, Ideates, Expresses** our ideas & problems with, for, and about products & services.
 
-Thank you 🤙🏽
+Please do us a solid and **follow us on our socials.** They are listed down there 👇🏽 **OR** if you are on a *desktop*, look over there 👈🏽 
+
+Thank you for your time. **Check back later** for more about what we do. 👋🏽
 
