@@ -1,7 +1,7 @@
 # Welcome to TheIndustryDirect
 
-*We are a _small_ team of people who:*
-* Think
+We are a *small* team of people who
+* Think (and dream)
 * Learn (and teach)
 * Research
 * Design 
