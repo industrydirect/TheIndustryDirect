@@ -1,4 +1,4 @@
-&# Welcome to TheIndustryDirect 🤙🏽
+# Welcome to TheIndustryDirect 🤙🏽
 
 We are a small team who **Thinks, Dreams, Learns, Researches, Teaches, Ideates, Designs, Builds, Tests, Ships, and Improves** our **Ideas** for products, services, solution, systems, and other **fun shit. 💩**
 
