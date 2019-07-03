@@ -7,5 +7,5 @@ Please do us a solid and **follow us on our socials.**
 _on a *desktop*, look over there_ 👈🏽
 _on a *mobile*, look down there_ 👇🏽
 
-Thank you for your time. **Check back later** for more about what we do and how we can help you and how you can help us. 👋🏽
+Thank you for your time. **Check back later** for more about what we do and how we can help you or, perhaps, how you can help us. 👋🏽
 
