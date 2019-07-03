@@ -1,8 +1,8 @@
-# Welcome to TheIndustryDirect 🤙🏽
+&# Welcome to TheIndustryDirect 🤙🏽
 
-We are a small team who **Thinks, Dreams, Learns, Researches, Teaches, Ideates, Designs, Builds, Tests, Ships, and Improves** our (and others) **Ideas** for products, services, and other **fun shit. 💩**
+We are a small team who **Thinks, Dreams, Learns, Researches, Teaches, Ideates, Designs, Builds, Tests, Ships, and Improves** our **Ideas** for products, services, solution, systems, and other **fun shit. 💩**
 
-Please do us a solid and **follow us on our socials **  
+Please do us a solid and **follow us on our socials.** 
 _on a *desktop*, look over there_ 👈🏽
 _on a *mobile*, look down there_ 👇🏽
 
