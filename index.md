@@ -1,3 +1,3 @@
 # Welcome to TheIndustryDirect 👋🏽 
 
-We are a small team who thinks, learns, researches, teaches, ideates, designs, validates, builds, tests, ships, listens,  grows, and improves on ideas for products, services, solution, systems, and other fun shit 💩
+We are preparing ourselves and the organizations we work with for the current and future state of work and business.
